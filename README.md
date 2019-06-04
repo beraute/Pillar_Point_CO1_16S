@@ -5,3 +5,5 @@ Samples of soil, sand and sediment for eDNA analysis were collected at Pillar Po
 This repository is prepared for http://globalbioticinteractions.org
 
 [![DOI](https://zenodo.org/badge/190073203.svg)](https://zenodo.org/badge/latestdoi/190073203)
+[![Build Status](https://travis-ci.org/beraute/Pillar_Point_CO1_16S.svg)](https://travis-ci.org/beraute/Pillar_Point_CO1_16S)
+[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:beraute/Pillar_Point_CO1_16S)](http://globalbioticinteractions.org/?accordingTo=globi:beraute/Pillar_Point_CO1_16S) 
